@@ -1,4 +1,4 @@
-# GLOSSARY
+# Glossary
 
 ## List of books
 
